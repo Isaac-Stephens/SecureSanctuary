@@ -1,0 +1,31 @@
+# Dependencies
+node_modules/
+
+# Build and Output
+build/
+ios/build/
+android/app/build/
+.gradle/
+*.ipa
+*.apk
+*.map
+*.hmap
+*.keystore
+
+# IDE and OS files
+.DS_Store
+.idea/
+*.iml
+*.pbxuser
+xcuserdata/
+DerivedData/
+local.properties
+
+# Environment/Logs
+.env
+.npm
+*.log
+
+# Fastlane
+fastlane/report.xml
+fastlane/test_output
